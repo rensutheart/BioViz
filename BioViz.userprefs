@@ -1,0 +1,39 @@
+﻿<Properties StartupItem="BioViz.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TextureSlicing.cs">
+    <Files>
+      <File FileName="Assets\Scripts\VolumeVisualizer.cs" Line="334" Column="1" />
+      <File FileName="Assets\Scripts\RayCasting.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FreehandPolygon.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeapMotionModules\PinchUtility\Scripts\LeapRTS.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BoundingBoxSetup.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ChemicalLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeapMotionModules\PinchUtility\Scripts\LeapRTSROI.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeapMotion\Scripts\Utils\EnableDepthBuffer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BoundingBoxInteractiveItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\VRStandardAssets\Scripts\VREyeRaycaster.cs" Line="1" Column="1" />
+      <File FileName="Assets\Shaders\RayCastingIso.shader" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SliderInteractiveItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DropdownInteractiveItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DropdownItemInteractiveItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ButtonInteractiveItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CanvasInteractiveItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\VRStandardAssets\Scripts\VRInput.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ROIBoxSetup.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeapMotion\Scripts\VR\LeapVRTemporalWarping.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScaleEverything.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\VRStandardAssets\Utils\VRCameraFade.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\VRStandardAssets\Scripts\VRInteractiveItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Shaders\RayCasting.shader" Line="1" Column="1" />
+      <File FileName="Assets\Shaders\TextureSlicing.shader" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FileSelector\LoadSample.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FileSelector\PersistentData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TextureSlicing.cs" Line="375" Column="3" NotebookId="1" />
+      <File FileName="Assets\Shaders\MIP.shader" Line="1" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
