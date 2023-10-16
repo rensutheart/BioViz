@@ -1,0 +1,9 @@
+abs_Max=255
+red_low=1
+red_high=50
+green_low=1
+green_high=5
+blue_low=1
+blue_high=10
+purple_low=1
+purple_high=10

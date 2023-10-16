@@ -1,0 +1,13 @@
+Base path: D:/Program Files/Unity/Editor/Data
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=3785 outsize=1632 ok=1
+Cmd: preprocess
+  insize=7124 outsize=1732 ok=1
+Cmd: preprocess
+  insize=11611 outsize=1912 ok=1
+Cmd: preprocess
+  insize=12341 outsize=1264 ok=1
+Unhandled exception: Protocol error - failed to read correct magic number
+
+Quitting shader compiler process
